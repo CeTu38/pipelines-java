@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/MelihTufan/Test/_apis/build/status%2FCeTu38.pipelines-java?branchName=main)](https://dev.azure.com/MelihTufan/Test/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
